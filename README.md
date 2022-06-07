@@ -1,6 +1,6 @@
 # MobileLogin
 App para listar produtores
-- Objetivos alcançados e objetivos não alcançados.
+- Os que estão com checkout são os Objetivos alcançados, e os que não estão com checkout são os objetivos não alcançados até o tempo estipulado.
 - [x] Linguagem Typescript;
 - [] Redux para gerenciar estado;
 - [] Redux Sagas para requisições assíncronas;
