@@ -1,6 +1,6 @@
 # MobileLogin
 App para listar produtores
-
+- Objetivos alcançados e objetivos não alcançados.
 - [x] Linguagem Typescript;
 - [] Redux para gerenciar estado;
 - [] Redux Sagas para requisições assíncronas;
